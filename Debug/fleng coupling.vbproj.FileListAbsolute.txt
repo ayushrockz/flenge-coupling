@@ -1,0 +1,12 @@
+C:\Users\chaturvedi ji\source\repos\fleng coupling\fleng coupling\bin\Debug\fleng coupling.exe.config
+C:\Users\chaturvedi ji\source\repos\fleng coupling\fleng coupling\bin\Debug\fleng coupling.exe
+C:\Users\chaturvedi ji\source\repos\fleng coupling\fleng coupling\bin\Debug\fleng coupling.pdb
+C:\Users\chaturvedi ji\source\repos\fleng coupling\fleng coupling\bin\Debug\fleng coupling.xml
+C:\Users\chaturvedi ji\source\repos\fleng coupling\fleng coupling\obj\Debug\fleng coupling.vbprojAssemblyReference.cache
+C:\Users\chaturvedi ji\source\repos\fleng coupling\fleng coupling\obj\Debug\fleng_coupling.Form1.resources
+C:\Users\chaturvedi ji\source\repos\fleng coupling\fleng coupling\obj\Debug\fleng_coupling.Resources.resources
+C:\Users\chaturvedi ji\source\repos\fleng coupling\fleng coupling\obj\Debug\fleng coupling.vbproj.GenerateResource.cache
+C:\Users\chaturvedi ji\source\repos\fleng coupling\fleng coupling\obj\Debug\fleng coupling.vbproj.CoreCompileInputs.cache
+C:\Users\chaturvedi ji\source\repos\fleng coupling\fleng coupling\obj\Debug\fleng coupling.exe
+C:\Users\chaturvedi ji\source\repos\fleng coupling\fleng coupling\obj\Debug\fleng coupling.xml
+C:\Users\chaturvedi ji\source\repos\fleng coupling\fleng coupling\obj\Debug\fleng coupling.pdb
